@@ -10,10 +10,6 @@ type: page
 {:toc}
 ## About Me
 
-<> <iframe src="https://githubbadge.appspot.com/crayfishology" style="border: 0;height: 111px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-
-
-
 My interest lies mainly on using complex systems approaches and engineering approaches to understand living things. 
 
 My essay/research bucket list also includes: (in case I forget)
@@ -30,6 +26,12 @@ My essay/research bucket list also includes: (in case I forget)
 8. (if) How does data convert to knowledge, specifically in biology / medical science? 
 9. (if) Pschology of Learning: math, memory, taking notes, cultural differences
 10. (if) Psychology of Communication: with your competitor, the suitable way for individual, teaching, communication online, find peers
+
+
+
+<iframe src="https://githubbadge.appspot.com/crayfishology" style="border: 0;height: 111px;width: 200px;overflow: hidden;" frameBorder="0"></iframe> 
+
+
 
 ## Contact
 
