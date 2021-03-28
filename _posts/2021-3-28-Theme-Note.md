@@ -6,15 +6,15 @@ categories: misc
 tags: theme jekyll web
 ---
 
-~~~python
-print("hello world!")
-~~~
+Hello World! 
 
 * content
 
 {:toc}
 
 ## Credit
+
+感谢[Cyzus](https://github.com/cyzus)撰写的[Blog for dummies](https://cyzus.github.io/2015/06/21/github-build-blog/) 
 
 郑重感谢[gaohaoyang](https://github.com/Gaohaoyang)提供的[blog engine](https://github.com/Gaohaoyang/gaohaoyang.github.io)。你的开源Jekyll theme让更多的人能在网上清晰地记录并公开自己的想法。
 
