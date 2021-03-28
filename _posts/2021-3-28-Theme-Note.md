@@ -16,7 +16,7 @@ print("hello world!")
 
 ## Credit
 
-郑重感谢[gaohaoyang](https://github.com/Gaohaoyang)提供的[blog engine](https://github.com/Gaohaoyang/gaohaoyang.github.io/tree/7437e90d108979335035371c7c6db0f982ff28a1)。你的开源Jekyll theme让更多的人能在网上清晰地记录并公开自己的想法。
+郑重感谢[gaohaoyang](https://github.com/Gaohaoyang)提供的[blog engine](https://github.com/Gaohaoyang/gaohaoyang.github.io)。你的开源Jekyll theme让更多的人能在网上清晰地记录并公开自己的想法。
 
 
 
