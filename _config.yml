@@ -7,8 +7,8 @@
 
 # Site settings
 title: crayfishology
-brief-intro: "Nulla Dies Sine Linea"
-baseurl:  # the subpath of your site, e.g. /blog
+brief-intro: Nulla Dies Sine Linea
+baseurl: ""
 url: "https://crayfishology.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
