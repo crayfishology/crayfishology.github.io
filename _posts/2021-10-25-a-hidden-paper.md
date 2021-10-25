@@ -6,13 +6,7 @@ categories: life
 tags: EN math data biology
 ---
 
-
-
-* content
-{:toc}
-
-
-# A Hidden Paper
+​	
 
 
 
