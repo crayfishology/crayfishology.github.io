@@ -19,31 +19,4 @@ Hello World!
 
 
 
-## Brief Note
-
-### Web Content
-
-主要记录一些学习笔记，Opinion，探索某个topic的过程。
-
-
-
-### 一些正在慢慢学的markdown：
-
-
-
-~~~
-1. insert link:
-[link text](link)
-2. table of contents (hyg theme sp: side bar)
-* content
-{:toc}
-3. comment
-<comment>
-
-
-~~~
-
-
-
-<This is a comment> 
-
+(last edited Oct-25 2021)
