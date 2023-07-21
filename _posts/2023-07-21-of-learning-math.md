@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Of Math Learning (1): Why Certain Math Instruction Failed"
-date: 2023-07-21 17:25:00
+date: 2023-07-22 00:22:00
 categories: life
 tags: EN math math_teaching
 ---
