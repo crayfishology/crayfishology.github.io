@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Of Math Learning: Why Certain Math Instruction Failed"
-date: 2023-07-22 00:22:00
+date: 2023-07-22 01:03:00
 categories: life
 tags: EN math math_teaching
 ---
-Of Learning Math (1)
 
+​
 "君子既知教之所由兴，又知教之所由废，然后可以为人师也。--- 《学记》
 Only after a virtuous person knows the causes which make teaching successful, and those which make it of no effect, he or she can proceed to become a teacher of others. --- *Record on the Subject of Education, Book of Rites* "
 ​
