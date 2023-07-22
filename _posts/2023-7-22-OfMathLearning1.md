@@ -3,7 +3,7 @@ layout: post
 title: "Of Math Learning: why certain math education failed"
 date: 2023-7-22 10:27:00
 categories: life
-tags:  EN math teaching
+tags: EN math teaching
 ---
 
 * content
