@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "Of Math Learning: why certain math education failed"
+date: 2023-7-22 10:27:00
 categories: life
 tags:  EN math teaching
-date: 2023-07-22 07:10:00
 ---
 
 * content
 {:toc}
 
->"君子既知教之所由兴，又知教之所由废，然后可以为人师也。--- 《学记》
+>君子既知教之所由兴，又知教之所由废，然后可以为人师也。--- 《学记》
 
 
-> Only after a virtuous person knows the causes which make teaching successful, and those which make it of no effect, he or she can proceed to become a teacher of others. --- *Record on the Subject of Education, Book of Rites* "
+> Only after a virtuous person knows the causes which make teaching successful, and those which make it of no effect, he or she can proceed to become a teacher of others. --- *Record on the Subject of Education, Book of Rites*
 ​
 
 Recently I came across a lot of criticism against prevalent mistakes and flaws seen in math education. This post is my attempt to briefly summarize them and provide a little reflection.
